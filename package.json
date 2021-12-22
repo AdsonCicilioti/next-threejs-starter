@@ -1,0 +1,52 @@
+{
+  "name": "next-threejs-starter",
+  "title": "Next.js ThreeJs Starter",
+  "description": "Use ThreeJs to start your Next.js app with TailwindCSS v3 an Typescript!",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Adson Cicilioti",
+    "email": "eu@adsonagencia.com",
+    "url": "https://adsonagencia.com"
+  },
+  "keywords": [
+    "next",
+    "nextjs",
+    "next js",
+    "threejs",
+    "three js",
+    "typescript",
+    "ts",
+    "tailwind",
+    "tailwindcss",
+    "css"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^7.0.24",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "three": "^0.135.0"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.2",
+    "@types/react": "17.0.37",
+    "autoprefixer": "^10.4.0",
+    "eslint": "8.5.0",
+    "eslint-config-next": "12.0.7",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-tailwind": "^0.2.1",
+    "next-compose-plugins": "^2.2.1",
+    "next-transpile-modules": "^9.0.0",
+    "postcss": "^8.4.5",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.7",
+    "typescript": "4.5.4"
+  }
+}
